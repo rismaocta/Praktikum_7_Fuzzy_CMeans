@@ -1,0 +1,1 @@
+# Praktikum_7_Fuzzy_CMeans
